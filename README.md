@@ -1,18 +1,50 @@
-# Shireen Hamdeh - Developer Portfolio
+# Hi, I'm Shireen 👋
+🎓 **Computer Engineer** | 💻 **Backend Developer** | 🤖 **AI Enthusiast**
 
-Welcome to my personal developer portfolio! This project was built using only HTML and CSS to showcase my background, skills, education, and career aspirations.
+---
 
-## Features
+## 🛠 Skills
+**Languages:** Java, C#, Python, C  
+**Frameworks & Automation:** ASP.NET, Cypress (Automation)  
+**Databases:** SQL  
+**Tools & Platforms:** Azure DevOps, Git, Postman  
 
-- Introduction and personal background
+---
+
+## 🚀 Featured Projects
+
+### [AI-Based Traffic Monitoring](https://github.com/ShireenHamdeh/AI-Based-Traffic-Monitoring-and-Congestion-Detection-System-Using-Video-Cameras)
+Real-time traffic monitoring system with vehicle detection using **YOLOv9** and **ByteTrack**.  
+- Trained on the UA-DETRAC dataset  
+- Integrated optical flow for efficient video compression  
+- Web app for live congestion statistics  
+
+### [Job Board Website](https://github.com/ShireenHamdeh/Job-Board)
+A backend-driven job listing platform with authentication and API testing.  
+- Developed with **ASP.NET** and **Azure DevOps**  
+- Implemented authentication, authorization, and middleware  
+- Comprehensive API testing using **Postman** and unit tests  
+
+---
+
+## 📄 About This Portfolio
+Welcome to my personal developer portfolio!  
+This repository was built using **HTML5** and **CSS3** to showcase my:
+- Personal background & introduction
 - Contact information
-- Education and experience details
-- Technical and soft skills
+- Education & professional experience
+- Technical & soft skills
 - Graduation project summary
 - Professional references
-- Clean, responsive layout (optional for future improvement)
 
-## Technologies Used
+---
 
-- HTML5
-- CSS3
+## 🎯 Future Improvements
+- Make the portfolio fully responsive for mobile and tablet devices
+- Add interactivity using JavaScript
+- Host on GitHub Pages for public access
+
+---
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/shireen-hamdeh) | 📧 **shireenhamdeh@gmail.com**
