@@ -25,26 +25,5 @@ A backend-driven job listing platform with authentication and API testing.
 - Implemented authentication, authorization, and middleware  
 - Comprehensive API testing using **Postman** and unit tests  
 
----
-
-## 📄 About This Portfolio
-Welcome to my personal developer portfolio!  
-This repository was built using **HTML5** and **CSS3** to showcase my:
-- Personal background & introduction
-- Contact information
-- Education & professional experience
-- Technical & soft skills
-- Graduation project summary
-- Professional references
-
----
-
-## 🎯 Future Improvements
-- Make the portfolio fully responsive for mobile and tablet devices
-- Add interactivity using JavaScript
-- Host on GitHub Pages for public access
-
----
-
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/shireen-hamdeh) | 📧 **shireenhamdeh@gmail.com**
